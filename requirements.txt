@@ -40,5 +40,6 @@ tgCrypto
 urllib3==1.26.15
 waybackpy
 xattr
-yt-dlp
-
+yt-dlp==2025.4.30
+pytz
+pyrofork==2.3.62
